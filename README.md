@@ -5,4 +5,4 @@
   Create a issue with request firstly.
 
 # When will it be released ?
-  It depents on how much opened issues we'll have. ;)
+  It depents on how much opened issues we'll have for sure. :)
